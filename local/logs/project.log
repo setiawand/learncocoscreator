@@ -1,0 +1,54 @@
+2017-08-09T15:04:19.284Z - normal: Load ~/.CocosCreator/settings.json
+2017-08-09T15:04:19.289Z - normal: checking language setting...
+2017-08-09T15:04:19.290Z - normal: Language: en
+2017-08-09T15:04:20.346Z - success: protocol editor-framework registered
+2017-08-09T15:04:20.347Z - success: protocol app registered
+2017-08-09T15:04:20.347Z - success: protocol theme registered
+2017-08-09T15:04:20.347Z - success: protocol profile registered
+2017-08-09T15:04:20.347Z - success: protocol packages registered
+2017-08-09T15:04:20.351Z - success: protocol unpack registerred
+2017-08-09T15:04:20.351Z - success: protocol disable-commonjs registerred
+2017-08-09T15:04:21.000Z - normal: connected!
+2017-08-09T15:04:21.003Z - normal: Check project /Users/setiawand/Documents/work/toys/Cocos/learncocoscreator
+2017-08-09T15:04:21.007Z - normal: Initializing Cocos2d
+2017-08-09T15:04:22.661Z - normal: Initializing Asset Database
+2017-08-09T15:04:22.734Z - success: protocol uuid registerred
+2017-08-09T15:04:22.734Z - success: protocol db registerred
+2017-08-09T15:04:22.735Z - success: protocol thumbnail registerred
+2017-08-09T15:04:22.735Z - normal: Loading editor/builtin packages
+2017-08-09T15:04:22.760Z - success: anysdk loaded
+2017-08-09T15:04:23.035Z - success: assets loaded
+2017-08-09T15:04:23.046Z - success: builder loaded
+2017-08-09T15:04:23.065Z - success: hierarchy loaded
+2017-08-09T15:04:23.076Z - success: inspector loaded
+2017-08-09T15:04:23.078Z - success: keystore loaded
+2017-08-09T15:04:23.091Z - success: node-library loaded
+2017-08-09T15:04:23.094Z - success: package-asset loaded
+2017-08-09T15:04:23.095Z - success: preferences loaded
+2017-08-09T15:04:23.121Z - success: project-importer loaded
+2017-08-09T15:04:23.134Z - success: project-settings loaded
+2017-08-09T15:04:23.144Z - success: ui-kit loaded
+2017-08-09T15:04:23.159Z - success: ui-grid loaded
+2017-08-09T15:04:23.172Z - success: scene loaded
+2017-08-09T15:04:23.174Z - success: sprite-editor loaded
+2017-08-09T15:04:23.189Z - success: store loaded
+2017-08-09T15:04:23.203Z - success: timeline loaded
+2017-08-09T15:04:23.204Z - normal: Loading builtin packages
+2017-08-09T15:04:23.218Z - success: asset-db-debugger loaded
+2017-08-09T15:04:23.221Z - success: code-editor loaded
+2017-08-09T15:04:23.222Z - success: color-picker loaded
+2017-08-09T15:04:23.236Z - success: console loaded
+2017-08-09T15:04:23.247Z - success: package-manager loaded
+2017-08-09T15:04:23.402Z - success: sdkbox loaded
+2017-08-09T15:04:23.413Z - success: tester loaded
+2017-08-09T15:04:23.424Z - success: ui-kit-preview-extra loaded
+2017-08-09T15:04:23.439Z - success: ui-kit-preview loaded
+2017-08-09T15:04:23.451Z - normal: last time update is in one day
+2017-08-09T15:04:23.451Z - success: ui-tree loaded
+2017-08-09T15:04:24.642Z - normal: Initializing project /Users/setiawand/Documents/work/toys/Cocos/learncocoscreator
+2017-08-09T15:04:24.689Z - warn: Profile profile://local/local.json warning: reset profile field: last-edit
+2017-08-09T15:04:24.703Z - normal: Loading packages
+2017-08-09T15:04:24.718Z - normal: Watching packages
+2017-08-09T15:04:24.732Z - normal: Run Application
+2017-08-09T15:04:26.583Z - success: preview server running at http://localhost:7456
+2017-08-09T15:04:35.748Z - normal: 1.5.2
